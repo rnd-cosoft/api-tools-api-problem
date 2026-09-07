@@ -1,7 +1,7 @@
+/.idea
 /.phpcs-cache
 /clover.xml
 /coveralls-upload.json
 /phpunit.xml
 /vendor/
 /.phpunit.result.cache
-/.phpcs-cache
